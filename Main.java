@@ -9,6 +9,8 @@ public class Main{
                 System.out.println("Added one more line");
 
                 System.out.println(new Date());
+                  System.out.println("Output second line ");
+
 
     }
 }
